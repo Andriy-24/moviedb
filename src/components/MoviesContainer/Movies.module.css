@@ -1,0 +1,10 @@
+.MoviesList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+}

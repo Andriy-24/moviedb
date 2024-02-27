@@ -1,0 +1,18 @@
+.Movie {
+    border: 1px solid;
+    width: 300px;
+    margin: 10px 10px;
+    height: 550px;
+}
+.h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+
+.Movie:hover {
+    cursor: pointer;
+    background-color: rgb(116, 112, 112);
+}
